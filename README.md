@@ -1,6 +1,6 @@
 # 概要
 
-・[メルカリ](https://www.mercari.com/jp/ target=_blank rel=noopener)のサイトから商品情報を収集
+・メルカリのサイトから商品情報を収集
 
 ・「メンズ新着アイテム」リンクページに遷移
 

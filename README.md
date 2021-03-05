@@ -22,5 +22,5 @@ Python：3.6.9
 # 実行方法
 
 ```
-python scraping_mercari.py
+$ python scraping_mercari.py
 ```

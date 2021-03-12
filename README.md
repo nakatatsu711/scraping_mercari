@@ -50,4 +50,4 @@ $ python scraping_mercari.py
 <br>
 <br>
 
-詳細は[「Nakatatsu Blockchain Blog」](https://blog.nakatatsublockchain.com/)をご確認ください。
+詳細は[「Nakatatsu Blockchain Blog」](https://blog.nakatatsublockchain.com/scraping-mercari/)をご確認ください。

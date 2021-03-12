@@ -46,3 +46,8 @@ ChromeDriverをダウンロードしたら解凍して、任意の場所に配�
 ```
 $ python scraping_mercari.py
 ```
+
+<br>
+<br>
+
+詳細は[「Nakatatsu Blockchain Blog」](https://blog.nakatatsublockchain.com/)をご確認ください。

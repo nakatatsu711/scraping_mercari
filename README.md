@@ -32,7 +32,7 @@ $ pip install -r requirements.txt
 ブラウザはGoogleChromeを使用します。  
 ブラウザを自動操作するためにはChromeDriverが必要です。  
 以下から自分のGoogleChromeと同じバージョンのドライバーをダウンロードします。  
-[ChromeDriverのダウンロードはこちら](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+[https://sites.google.com/a/chromium.org/chromedriver/downloads](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 
 
 ChromeDriverをダウンロードしたら解凍して、任意の場所に配置します。  
